@@ -1,0 +1,8 @@
+assosiasi 
+Hubungan umum antar-objek yang saling berinteraksi (misalnya: objek A menggunakan objek B), tanpa ada keterikatan siklus hidup yang ketat.
+
+Agregrasi
+Objek utama memiliki objek lain, tetapi keduanya bisa berdiri sendiri. Jika objek utama dihancurkan, objek lainnya tetap eksis.
+
+Komposisi
+Objek komponen merupakan bagian permanen yang hidup dan matinya bergantung pada objek utama. Jika objek utama dihancurkan, komponen di dalamnya ikut musnah.
